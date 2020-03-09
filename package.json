@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-cli-youtube-video-downloader",
+  "version": "1.0.0",
+  "description": "Download youtube video by node cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "youtube",
+    "video"
+  ],
+  "author": "httvhutceoscop",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "ora": "^4.0.3",
+    "youtube-mp3-downloader": "^0.6.5"
+  }
+}
